@@ -46,9 +46,12 @@
 
     openNav.classList.add('active');
     function openNav() {
+        if (window.innerWidth < 700) {
         document.getElementById("mySidenav").style.width = "200px";
    
-
+        } else {
+            document.getElementById("mySidenav").style.width = "265px";
+        }
 
     }
 
