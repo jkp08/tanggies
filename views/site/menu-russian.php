@@ -2590,5 +2590,5 @@ $this->title = 'Tanggies Menu';
     </div>
 
 
-    <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fa-solid fa-arrow-up"></i></button>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">↑</button>
 </div>
