@@ -172,7 +172,7 @@
 
         .choice {
             width: 50%;
-            font-family: 'Kalam', cursive;
+            /* font-family: 'Kalam', cursive; */
             font-size: 20px;
         }
 
@@ -381,7 +381,7 @@
             }
             h2 {
                 width: 50%;
-                font-family: 'Architects Daughter', cursive;
+                /* font-family: 'Architects Daughter', cursive; */
                 font-size: 20px;
                 padding: 0px;
             }
@@ -401,7 +401,7 @@
             .choice {
                 padding-left: 10px;
                 width: 50%;
-                font-family: 'Kalam', cursive;
+                /* font-family: 'Kalam', cursive; */
                 font-size: 10px;
             }
 
