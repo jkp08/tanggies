@@ -151,13 +151,13 @@
 
         h2 {
             width: 50%;
-            font-family: 'Architects Daughter', cursive;
+           /* font-family: 'Architects Daughter', cursive;*/
             font-size: 40px;
             padding: 0px;
         }
 
         .name {
-            font-family: 'Gabarito', cursive;
+           /* font-family: 'Gabarito', cursive;*/
             font-size: 20px;
             width: 50%;
         
