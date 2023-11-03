@@ -16,7 +16,7 @@ $this->title = 'Tanggies Menu';
 <nav class="head">
         <img src="<?= Yii::$app->request->baseUrl.'/img/finalblue.png' ?>" alt="">
     </nav>
-    <div class="background">
+    
         <nav class="nav">
             <div class="btn">
 
@@ -33,6 +33,8 @@ $this->title = 'Tanggies Menu';
                 </div>
             </div>
         </nav>
+<div class="background">
+        <div class="side1">
         <id class="main">
 
 
@@ -96,6 +98,8 @@ $this->title = 'Tanggies Menu';
                     ?>
                 </div>
             </div>
+        </id>
+        </div>
             <div id="content">
                 <div class="food">
                     <?php
